@@ -1,0 +1,15 @@
+boby{
+    font-family:Arial, sans-serif;
+    text-align: center;
+}
+
+#volante {
+    width: 200px;
+    height: 200px;
+    background-image: url('VolanteXD.png'); /*Usa una imagen de volante*/
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 20px auto;
+    transform-origin: center;
+    transition: transform 0.1s ease-out;
+}
